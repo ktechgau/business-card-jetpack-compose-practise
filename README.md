@@ -13,3 +13,6 @@ Link to challenge [here](https://developer.android.com/codelabs/basic-android-ko
 - Using Spacer
 - Image
 - Icon
+
+  
+<img wwidth="360" height="800" alt="Screenshot_20251126_164007" src="https://github.com/user-attachments/assets/976aae8d-83c8-447a-b344-8124e8a91599" />
