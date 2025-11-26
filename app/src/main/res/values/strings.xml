@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="card_name">Karla Gaudet</string>
+    <string name="card_title">Software Engineer</string>
+    <string name="phone_number">0400 000 000</string>
+    <string name="email">ktechgau@gmail.com</string>
+</resources>
